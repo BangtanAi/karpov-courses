@@ -1,0 +1,12 @@
+{
+  "printWidth": 120, // максимальная ширина строки
+  "singleQuote": true, // одинарные кавычки
+  "overrides": [
+    {
+      "files": ["*.css"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}
